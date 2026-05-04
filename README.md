@@ -1,6 +1,6 @@
 # 🚩 La Commune
 
-**Camarades développeurs de jeu,  bienvenue !** Ce dépôt est notre bibliothèque collective. Ici, nous mutualisons nos moyens de production vidéoludique. Fini le code redondant, la collectivisation de nos scripts, shaders et outils est en marche !
+la collectivisation de nos scripts, shaders et outils est en marche !
 
 ---
 
