@@ -1,6 +1,7 @@
 # 🚩 La Commune
 
-la collectivisation de nos scripts, shaders et outils est en marche !
+"La propriété privée nous a rendus si stupides et si bornés qu’un objet n’est nôtre que lorsque nous le possédons."
+Karl Marx
 
 ---
 
