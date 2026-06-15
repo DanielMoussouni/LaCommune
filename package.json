@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "displayName": "La Commune",
   "description": "Bibliothèque communautaire d'outils, shaders et prefabs pour le game dev.",
-  "unity": "6000.0.60f1",
+  "unity": "6000.0",
+  "unityRelease": "60f1",
   "author": {
     "name": "Tout le monde"
   },
